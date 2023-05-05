@@ -1,0 +1,23 @@
+zadatak1
+način generiranja podataka:
+-1: podatci se dijele u 3 skupine pogledom slicnih velicina nalik hrpama
+-2: podatci se dijele u 3 skupine pogledom slicnih velicina nalik padajucim vektorima
+-3: podatci se dijele u 4 skupine razlicitih velicina
+-4: podatci se rasporeduju na dvije kruznice, jedna u drugoj
+-5: podatci se rasporeduju na dva polukruzna oblika nalik mjesecu
+
+zadatak 2
+kao rezultat dobivamo graf za odredivanje optimalnog broja klastera lakat metodom
+način generiranja podataka:
+-1: iz grafa ocitavamo da bi optimalni broj klastera bio 3
+-2: iz grafa ocitavamo da bi optimalni broj klastera bio 3
+-3: iz grafa ocitavamo da bi optimalni broj klastera bio 8
+-4: nije moguce nacrtati graf. ne postoji optimalni broj klastera
+-5: nije moguce nacrtati graf. ne postoji optimalni broj klastera
+
+zadatak 3
+postoje 3 metode kod koristenja funkcije linkage
+-'signle': spaja 2 najbliza primjera iz 2 grupe
+-'complete': spaja 2 najudaljenija primjera iz 2 grupe
+-'average': spaja 2 centra klastera
+
